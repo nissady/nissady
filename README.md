@@ -1,7 +1,7 @@
 # Nissady Jimmy Tseng
 
 ## About Me
-Hi~I'm Nissady(/ni-SA-di/). In fact, I prefer it typed in all lowercase.
+This is Nissady(/ni-SA-di/). 
 
 ## Education
 - Master degree of Department of Transportation & Logistics Management in NCTU(NYCU)
@@ -19,7 +19,7 @@ Hi~I'm Nissady(/ni-SA-di/). In fact, I prefer it typed in all lowercase.
 
 ## Contact
 - GitHub: [nissady](https://github.com/YourGitHubUsername)
-- Email: nissadytseng@gmail.com
+- Email: nissadyhc.mg09@gmail.com
 
 <!---
 nissady/nissady is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
